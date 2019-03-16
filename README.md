@@ -1,2 +1,2 @@
 # Competitive-Programming-problems
-Contains solutions of some of the problems in Competitive Programming
+Contains solutions for some of the problems in Competitive Programming
