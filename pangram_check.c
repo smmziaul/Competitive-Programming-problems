@@ -1,3 +1,6 @@
+// checks whether the user-entered-string is pangram or not.
+// pangram: a sentence which contains every letter of the alphabets in the language.
+
 #include<stdio.h>
 #include<string.h>
 
