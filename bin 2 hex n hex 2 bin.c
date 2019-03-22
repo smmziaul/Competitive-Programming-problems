@@ -1,3 +1,5 @@
+// a pgm for binary to hexadecimal conversion and vice-versa.
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
