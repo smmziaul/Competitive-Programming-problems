@@ -1,3 +1,6 @@
+// An emirp (prime spelled backwards) is a prime number that results in a different prime when its decimal digits are reversed.
+// This question was asked to me in Zoho Programming Round 2. Hope you find it useful!
+
 #include<stdio.h>
 #include<conio.h>
 int p=-1, b[500], a[500];
